@@ -28,7 +28,7 @@ public class HomeController : Controller
         return View();
     }
 
-    [Authorize(Roles = "Admin")]
+    [Authorize(Roles = "Tutor")]
     public IActionResult Privacy()
     {
         return View();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BChEI8jsoG0eWQc/uK5HziEZgAIN3Tlnuy7EVoCqpdYS3ZrQ3cs1DT5pwq9oWadKPIreeGsekL5BhkpcZXjXsA==",
+  "dgSpecHash": "tvz5al0O25ksfFdHoHDto892N2C6XJultiRndYp77GwlDNkK4ExE5VwD/c3fDdYFr4BQDp6q5VzLzQJyI2SmFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\signe\\ikt201g22h\\other\\test_4\\test_4.csproj",
+  "projectFilePath": "C:\\Users\\signe\\ikt201g22h\\TURTLE\\LogInTest_4\\test_4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\signe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\signe\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
